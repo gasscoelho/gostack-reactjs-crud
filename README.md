@@ -29,7 +29,7 @@ If you are using NPM then run `npm install`
 
 We're using the `json-server` to represent a REST API.
 
-If you are using NPM then run `yarn json-server --watch server.json -p 3333`
+If you are using NPM then run `npm json-server --watch server.json -p 3333`
 
 ---
 
